@@ -1,13 +1,14 @@
 # multimodal-ecg-classification
 
-RESEARCH-PAPER = {Title:  "Multi-module Recurrent Convolutional Neural Network with Transformer Encoder for ECG Arrhythmia Classification",
+RESEARCH-PAPER = {Title: "Multi-module Recurrent Convolutional Neural Network with Transformer Encoder for ECG Arrhythmia Classification",
+
                            Link:  "https://ieeexplore.ieee.org/abstract/document/9508527",                                
                                    Authors: ["Duc Le",
                                                    "Vidhiwar Singh Rathour",
                                                           "Sang Truong", 
                                                                   "Quan Mai^, 
                                                                           Patel Brijesh; 
-                                                                                  Ngan Le"]}
+                                                                                  Ngan Le"]}  
                                                                                     
 DIRECTORY-TREE = {multimodal-ecg-classification: "Root Directory"[
 
