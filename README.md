@@ -38,11 +38,11 @@ HOW-TO-USE = {Installation-Train-Val:[
                                cuatro: "Run python ecg_###.py to train on training data, and validate on validation data",
                                cinco: "By default results are saved in checkpoints directory"]}
                                
-                               
-                               
-                               ![Model]("https://github.com/Vidhiwar/multimodal-ecg-classification/Model.png"?raw=true "Title")
+IMAGES = {[ 
 
-                               ![Results]("https://github.com/Vidhiwar/multimodal-ecg-classification/Results.png"?raw=true "Title")
+                               ![Model]("https://github.com/Vidhiwar/multimodal-ecg-classification/Model.png"?raw=true "Title")]
+
+                               ![Results]("https://github.com/Vidhiwar/multimodal-ecg-classification/Results.png"?raw=true "Title")]}
 
              
 #  EOF
