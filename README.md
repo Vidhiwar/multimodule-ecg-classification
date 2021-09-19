@@ -40,9 +40,9 @@ HOW-TO-USE = {Installation-Train-Val:[
                                
                                
                                
-                               <img width="1007" alt="Screen Shot 2021-09-19 at 5 11 52 AM" src="https://user-images.githubusercontent.com/40514310/133923704-efda0f98-1a4a-4487-965e-a3d87b7f8ea2.png">
+                               ![Model]("https://user-images.githubusercontent.com/40514310/133923704-efda0f98-1a4a-4487-965e-a3d87b7f8ea2.png")
 
-                               <img width="923" alt="Screen Shot 2021-09-19 at 5 14 02 AM" src="https://user-images.githubusercontent.com/40514310/133923729-d3792910-0809-4c4a-8971-8b93d3e3cfcc.png">
+                               ![Results]("https://user-images.githubusercontent.com/40514310/133923729-d3792910-0809-4c4a-8971-8b93d3e3cfcc.png")
 
              
 #  EOF
