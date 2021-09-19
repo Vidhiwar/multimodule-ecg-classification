@@ -38,8 +38,8 @@ HOW-TO-USE: {Installation-Train-Val:[
       Uno: "Make sure the required libraries (Torch, Panda, Tqdm, ... etc.,. are installed",
       Dos: : "Use the examples directory to download and preprocess data.",
       Tres: "Follow transform_data.ipyn to get data ready for training.",
-      cuatro: "Run python ecg_###.py to train on training data, and validate on validation data",
-      cinco: "By default results are saved in checkpoints directory"]}
+      Cuatro: "Run python ecg_###.py to train on training data, and validate on validation data",
+      Cinco: "By default results are saved in checkpoints directory"]}
                                
 IMAGES: { 
 
