@@ -40,9 +40,9 @@ HOW-TO-USE = {Installation-Train-Val:[
                                
                                
                                
-                               ![Model]("https://user-images.githubusercontent.com/40514310/133923704-efda0f98-1a4a-4487-965e-a3d87b7f8ea2.png")
+                               ![Model]("https://user-images.githubusercontent.com/40514310/133923704-efda0f98-1a4a-4487-965e-a3d87b7f8ea2.png"?raw=true "Title")
 
-                               ![Results]("https://user-images.githubusercontent.com/40514310/133923729-d3792910-0809-4c4a-8971-8b93d3e3cfcc.png")
+                               ![Results]("https://user-images.githubusercontent.com/40514310/133923729-d3792910-0809-4c4a-8971-8b93d3e3cfcc.png"?raw=true "Title")
 
              
 #  EOF
