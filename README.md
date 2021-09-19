@@ -40,9 +40,9 @@ HOW-TO-USE = {Installation-Train-Val:[
                                
 IMAGES = {[ 
 
-                               ![Model]("https://raw.github.com/Vidhiwar/multimodal-ecg-classification/master/Model.png"?raw=true "Title")]
+                               ![Model]("https://raw.github.com/Vidhiwar/multimodal-ecg-classification/Model.png"?raw=true "Title")]
 
-                               ![Results]("https://raw.github.com/Vidhiwar/multimodal-ecg-classification/master/Results.png"?raw=true "Title")]}
+                               ![Results]("https://raw.github.com/Vidhiwar/multimodal-ecg-classification/Results.png"?raw=true "Title")]}
 
              
 #  EOF
