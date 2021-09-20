@@ -36,7 +36,7 @@ DIRECTORY-TREE: {[
                                        
 HOW-TO-USE: {Installation-Train-Val:[
 
-      Uno: "Make sure the required libraries (Torch, Panda, Tqdm, ... etc.,. are installed",
+      Uno: "Make sure the required libraries (Torch, Panda, Tqdm, ... etc.,). are installed",
       Dos: : "Use the examples directory to download and preprocess data.",
       Tres: "Follow transform_data.ipyn to get data ready for training.",
       Cuatro: "Run python ecg_###.py to train on training data, and validate on validation data",
