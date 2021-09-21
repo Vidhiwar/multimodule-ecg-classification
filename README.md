@@ -8,8 +8,8 @@ RESEARCH-PAPER:  {Title: "Multi-module Recurrent Convolutional Neural Network wi
                                 "Sang Truong", 
                                          "Quan Mai^, 
                                                   Patel Brijesh; 
-                                                          Ngan Le"]
-                                                                (^ = Equal Contribution)}  
+                                                          Ngan Le"],
+                                                                (^ = Equal Contribution),}  
 
                                                           
                                                                                     
