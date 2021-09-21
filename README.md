@@ -15,8 +15,10 @@ RESEARCH-PAPER:  {Title: "Multi-module Recurrent Convolutional Neural Network wi
                                                                                     
 DIRECTORY-TREE: {[
 
+     data: "Directory: Datasets for training are stored here.",
     
-    utils: "Directory: Utility based files",
+     utils: "Directory: Utility based files",
+     
      examples: "Directory: github/awni/ecg/":[
             Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network"],
 
