@@ -2,14 +2,19 @@
 
 RESEARCH-PAPER:  {Title: "Multi-module Recurrent Convolutional Neural Network with Transformer Encoder for ECG Arrhythmia Classification",
 
-      Link:  "https://ieeexplore.ieee.org/abstract/document/9508527",                                
-              Authors: ["Duc Le^",
-                       "Vidhiwar Singh Rathour^",
-                                "Sang Truong", 
-                                         "Quan Mai^, 
-                                                  Patel Brijesh; 
-                                                          Ngan Le"],
-                                                                (^ = Equal Contribution),}  
+      CITE:  "https://ieeexplore.ieee.org/abstract/document/9508527",
+      
+      YEAR: 2021
+      
+      CONFERENCE: "IEEE EMBS"
+      
+      AUTHORS: ["Duc Le^",
+                    "Vidhiwar Singh Rathour^",
+                          "Sang Truong", 
+                                   "Quan Mai^, 
+                                            Patel Brijesh; 
+                                                    Ngan Le"],
+                                                          (^ = Equal Contribution),}  
 
                                                           
                                                                                     
