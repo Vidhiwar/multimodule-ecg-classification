@@ -278,24 +278,6 @@ class ResNet(nn.Module):
         x = x.view(self.batch_size, self.time_steps, x.size(1))
         x, (h1, b1) = self.lstm(x, self.hidden_cell)
         x = h1[-1, :, :]
-
-        # w = w.view(self.batch_size * self.time_steps, w.size(2), w.size(3))
-        # w = self.conv1ecg(w)
-        # w = self.bn1ecg(w)
-        # w = self.relu(w)
-        # w = self.layer1ecg(w)
-        # w = self.layer2ecg(w)
-        # w = self.layer3ecg(w)
-        # w = self.avgpoolecg(w)
-        # w = torch.squeeze(w)
-        # w = w.view(self.batch_size, self.time_steps, w.size(1))
-        # w, (h0, b0) = self.lstm_ecg(w, self.hidden_cell)
-        # w = h0[-1, :, :]
-        #
-        # e = torch.cat((w.unsqueeze(0), x.unsqueeze(0)), dim=0)
-        #
-        # x = self.transformerEncoder(e)
-        # x = torch.mean(x, dim=0)
         x = self.fc(x)
         x = self.fc_final(x)
         return x
