@@ -1,6 +1,8 @@
 # multimodal-ecg-classification
 
-RESEARCH-PAPER:  {Title: "Multi-module Recurrent Convolutional Neural Network with Transformer Encoder for ECG Arrhythmia Classification",
+RESEARCH-PAPER:  {
+
+      TITLE: "Multi-module Recurrent Convolutional Neural Network with Transformer Encoder for ECG Arrhythmia Classification",
 
       CITE:  "https://ieeexplore.ieee.org/abstract/document/9508527",
       
