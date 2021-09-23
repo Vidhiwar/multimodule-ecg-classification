@@ -1,4 +1,4 @@
-# multimodal-ecg-classification
+# multimodule-ecg-classification
 
 RESEARCH-PAPER:{
 
