@@ -1,6 +1,5 @@
 '''
 Training script for ecg classification
-Copyright (c) Wei YANG, 2017
 '''
 from __future__ import print_function
 
