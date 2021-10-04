@@ -1,3 +1,6 @@
+'''
+Training script for ecg classification
+'''
 
 from __future__ import print_function
 
